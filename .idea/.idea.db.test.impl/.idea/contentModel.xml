@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\ALEXEY\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\ALEXEY\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_db.test.impl.344328727.00" t="ExcludeRecursive" />
+    <e p="C:\Users\ALEXEY\AppData\Roaming\JetBrains\Rider2020.3\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\ALEXEY\AppData\Roaming\JetBrains\Rider2020.3\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\ALEXEY\RiderProjects\db.test.impl" t="IncludeFlat">
+      <e p="db.test.impl" t="IncludeRecursive">
+        <e p="And.cs" t="Include" />
+        <e p="And.jpg" t="Include" />
+        <e p="Average.cs" t="Include" />
+        <e p="Average.jpg" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="db.test.impl.csproj" t="IncludeRecursive" />
+        <e p="Division.cs" t="Include" />
+        <e p="Division.jpg" t="Include" />
+        <e p="IPlugin.cs" t="Include" />
+        <e p="IPluginFactory.cs" t="Include" />
+        <e p="Log.cs" t="Include" />
+        <e p="Log.jpg" t="Include" />
+        <e p="Max.cs" t="Include" />
+        <e p="Max.jpg" t="Include" />
+        <e p="Min.cs" t="Include" />
+        <e p="Min.jpg" t="Include" />
+        <e p="Multiplication.cs" t="Include" />
+        <e p="Multiplication.jpg" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="db.test.impl.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Or.cs" t="Include" />
+        <e p="Or.jpg" t="Include" />
+        <e p="Plugin.cs" t="Include" />
+        <e p="Plugins.cs" t="Include" />
+        <e p="Pow.jpg" t="Include" />
+        <e p="Power.cs" t="Include" />
+        <e p="Remnant.cs" t="Include" />
+        <e p="Remnant.jpg" t="Include" />
+        <e p="Root.cs" t="Include" />
+        <e p="Root.jpg" t="Include" />
+        <e p="Subtraction.cs" t="Include" />
+        <e p="Subtraction.jpg" t="Include" />
+        <e p="Sum.cs" t="Include" />
+        <e p="Sum.jpg" t="Include" />
+      </e>
+      <e p="db.test.impl.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
